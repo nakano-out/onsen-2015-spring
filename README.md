@@ -42,6 +42,15 @@
 - CTF
 - 1人20分程度の講習
 
+## 部屋割りについて
+
+| 部屋1 | 部屋2 | 部屋3 |
+|:---:|:---:|:---:|
+| kwzr | 3846masa | huraiboh |
+| mactkg | patchgi | tiara |
+| shiso | kkrnt | fms_cat |
+| gaku | korokorotune |
+
 ## 費用について
 | 内訳 | 金額 |
 | :--- | ---: |
