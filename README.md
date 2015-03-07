@@ -49,7 +49,7 @@
 | kwzr | 3846masa | huraiboh |
 | mactkg | patchgi | tiara |
 | shiso | kkrnt | fms_cat |
-| gaku | korokorotune |
+| - | korokorotune | - |
 
 ## 費用について
 | 内訳 | 金額 |
